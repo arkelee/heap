@@ -1,5 +1,5 @@
 /* 
- * File:   main.c
+ * File:   heap_test.c
  * Author: arkelee@gmail.com
  *
  * Created on 2010-12-4, 22:34
